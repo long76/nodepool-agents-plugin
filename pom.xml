@@ -209,7 +209,7 @@
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>docker-java-api</artifactId>
-            <version>3.0.14</version>
+            <version>3.7.0-133.v2a_9174cd5822</version>
         </dependency>
         <dependency>
             <groupId>org.mockito</groupId>
